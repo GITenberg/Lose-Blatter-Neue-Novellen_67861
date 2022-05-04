@@ -1,0 +1,41 @@
+_repo: Lose-Blatter-Neue-Novellen_67861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scheliha, Doris von
+    aliases:
+    - Von Scheliha, Doris
+    - Spattgen, Doris von
+    - Spättgen, Doris von
+    - Spaettgen, Doris Freiin von
+    - Scheliha, Doris (gräfin von Matuschka)
+    - Scheliha, Doris (grafin von Matuschka)
+    birthdate: 1847
+    deathdate: 1925
+    gutenberg_agent_id: '54498'
+    url: http://www.gutenberg.org/2009/agents/54498
+    wikipedia: https://de.wikipedia.org/wiki/Doris_von_Scheliha
+description: ''
+gutenberg_issued: '2022-04-18'
+identifiers:
+  gutenberg: '67861'
+language: de
+pgterms:marc904: https://catalog.hathitrust.org/Record/100072482
+pgterms:marc905: 20210330055426scheliha
+pgterms:marc906: '1895'
+pgterms:marc907: DE
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: Germany :Verlag von F. A. Berger,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 19th century'
+- !lcsh 'Short stories, German'
+- GITenberg
+tableOfContents: Licht -- Fächer-Bilder -- Aus Großtantchens Hofdamenleben  -- Unter
+  dem Niagara-Falle -- Zahnschmerzen -- Amerikanische Existenzen.
+title: 'Lose Blätter: Neue Novellen'
+url: http://www.gutenberg.org/ebooks/67861
